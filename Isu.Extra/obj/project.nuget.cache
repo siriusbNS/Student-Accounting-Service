@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "9PeJQNgU2RlGufwQoB03a01lrmIQ/7xCXft/pYHfNFS0AuNQV0lT09L6BNNk24/znlWlkEzXOIGG11DMyHyC2g==",
+  "success": true,
+  "projectFilePath": "/Users/siriusa/Desktop/Repo/VladKUvsh/Lab2/Isu.Extra/Isu.Extra.csproj",
+  "expectedPackageFiles": [
+    "/Users/siriusa/.nuget/packages/stylecop.analyzers/1.1.118/stylecop.analyzers.1.1.118.nupkg.sha512"
+  ],
+  "logs": []
+}

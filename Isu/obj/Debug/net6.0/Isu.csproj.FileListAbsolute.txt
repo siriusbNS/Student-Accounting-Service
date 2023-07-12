@@ -1,0 +1,12 @@
+/Users/siriusa/Desktop/Repo/VladKUvsh/Lab0/Isu/obj/Debug/net6.0/Isu.csproj.AssemblyReference.cache
+/Users/siriusa/Desktop/Repo/VladKUvsh/Lab0/Isu/obj/Debug/net6.0/Isu.GeneratedMSBuildEditorConfig.editorconfig
+/Users/siriusa/Desktop/Repo/VladKUvsh/Lab0/Isu/obj/Debug/net6.0/Isu.AssemblyInfoInputs.cache
+/Users/siriusa/Desktop/Repo/VladKUvsh/Lab0/Isu/obj/Debug/net6.0/Isu.AssemblyInfo.cs
+/Users/siriusa/Desktop/Repo/VladKUvsh/Lab0/Isu/obj/Debug/net6.0/Isu.csproj.CoreCompileInputs.cache
+/Users/siriusa/Desktop/Repo/VladKUvsh/Lab0/Isu/bin/Debug/net6.0/Isu.deps.json
+/Users/siriusa/Desktop/Repo/VladKUvsh/Lab0/Isu/bin/Debug/net6.0/Isu.dll
+/Users/siriusa/Desktop/Repo/VladKUvsh/Lab0/Isu/bin/Debug/net6.0/Isu.pdb
+/Users/siriusa/Desktop/Repo/VladKUvsh/Lab0/Isu/obj/Debug/net6.0/Isu.dll
+/Users/siriusa/Desktop/Repo/VladKUvsh/Lab0/Isu/obj/Debug/net6.0/refint/Isu.dll
+/Users/siriusa/Desktop/Repo/VladKUvsh/Lab0/Isu/obj/Debug/net6.0/Isu.pdb
+/Users/siriusa/Desktop/Repo/VladKUvsh/Lab0/Isu/obj/Debug/net6.0/ref/Isu.dll
